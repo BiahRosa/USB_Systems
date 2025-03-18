@@ -1,0 +1,18 @@
+Na empresa da senhora Undina Souza Barbosa, a USB Systems, todos os
+funcionários são cadastrados pelo nome, CPF e endereço.
+Todos também recebem
+um salário fixo e um bônus semestral, mas as coisas começam a ficar diferentes
+quando comparamos os Vendedores, os Desenvolvedores e os Gerentes.
+
+• Os gerentes possuem uma sala, onde podem ser encontrados, que possui
+um número e um ramal telefônico. Os bônus dos gerentes são
+correspondentes a 5% do faturamento semestral que tiveram.
+
+• Para os vendedores, não existem salas nem ramais. Seus bônus são
+correspondentes a 1,5% das vendas que realizaram no semestre.
+
+• Para os programadores, existem apenas os ramais por onde podem ser
+contatados. Seus bônus são sempre de 2% sobre o salário fixo.
+
+É importante, também, obter um detalhamento em formato de texto com todos
+os dados de cada funcionário.
